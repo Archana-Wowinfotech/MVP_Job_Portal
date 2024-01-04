@@ -1,0 +1,6 @@
+@media (min-width: 768px) {
+    .d-md-block {
+        display: none!important;
+    }
+}
+

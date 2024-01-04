@@ -1,0 +1,2 @@
+[19-Dec-2023 13:58:58 UTC] PHP Deprecated:  Optional parameter $dataType declared before required parameter $pSheet is implicitly treated as a required parameter in /home1/a1662jqq/public_html/WEB/MVP_Job_Portal/application/libraries/PHPExcel/Writer/Excel2007/Chart.php on line 1260
+[20-Dec-2023 09:07:36 UTC] PHP Deprecated:  Optional parameter $dataType declared before required parameter $pSheet is implicitly treated as a required parameter in /home1/a1662jqq/public_html/WEB/MVP_Job_Portal/application/libraries/PHPExcel/Writer/Excel2007/Chart.php on line 1260
